@@ -1,4 +1,4 @@
-# Hotel-Management-System-NodeJS-MYSQL
+# Hotel Management System
 
 ## DBMS Mini Project
 
