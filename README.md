@@ -84,4 +84,4 @@ The provided SQL statements include the creation of tables, insertion of sample 
 
 ### Conclusion
 
-This documentation provides an overview of the hotel management system database, including its entities, relationships, and SQL statements for table creation, data insertion, indexes, and constraints. You can use this as a reference to understand the structure and functionality of the database and build upon it for your college DBMS mini project.
+This documentation provides an overview of the hotel management system database, including its entities, relationships, and SQL statements for table creation, data insertion, indexes, and constraints.
